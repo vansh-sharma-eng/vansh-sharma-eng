@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing full-stack web projects as a 3rd-year B.Tech student in Artificial Intelligence & Robotics (AIR).  <br>👯 I’m looking to collaborate on web development and open-source projects.  <br>🤝 I’m looking for help with improving my DSA and problem-solving abilities.  <br>🌱 I’m currently learning full stack development and enhancing my DSA foundations.  <br>💬 Ask me about my portfolio website or weather app projects.  <br>⚡ Fun fact: I learn best by building real-world projects and experimenting with new tech.<br>
-
+I am a 3rd-year B.Tech student in Artificial Intelligence & Robotics with a strong interest in full-stack web development. I actively work on building practical projects and aim to improve my data structures and problem-solving skills. I am open to collaborating on web development and open-source projects and enjoy learning by creating real-world applications such as portfolio and utility-based web apps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vansh-sharma-678323301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshsharmas92005@gmail.com) 
