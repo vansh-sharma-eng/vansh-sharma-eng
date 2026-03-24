@@ -32,9 +32,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=vansh-sharma-eng&theme=prussian&hide_border=true&cache_seconds=86400" alt="vansh-sharma-eng's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-sharma-eng&theme=prussian&radius=10" alt="vansh-sharma-eng's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -59,6 +56,4 @@
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/vansh-sharma-678323301" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="vansh sharma's LinkedIn"/></a> <a href="mailto:vanshsharmas92005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="vansh sharma's Email"/></a> <a href="https://vansh-sharma-eng.github.io/portfolio_web/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
