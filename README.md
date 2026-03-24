@@ -1,17 +1,64 @@
-💫 About Me:
-Currently pursuing B.Tech in Artificial Intelligence & Robotics, I have developed a keen interest in Full-Stack Web Development and software engineering. I enjoy working on end-to-end applications, from designing user-friendly interfaces to managing backend logic and databases. I believe in learning by building, which is why I consistently work on real-world projects to strengthen my fundamentals in programming, DBMS, OOP, and Data Structures & Algorithms. I am actively seeking opportunities to collaborate on web development and open-source projects where I can contribute, learn, and grow as a developer.
+<h1 align="center">Hi 👋, I'm vansh sharma</h1>
+<h3 align="center">B.Tech Student | Learning Full-Stack Development.</h3>
 
-🌐 Socials:
-LinkedIn
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=vansh-sharma-eng">
+    <img src="https://komarev.com/ghpvc/?username=vansh-sharma-eng&label=Profile%20views&color=00FFFF&style=flat-square" alt="vansh-sharma-eng's profile views" />
+  </a>
+</p>
 
-💻 Tech Stack:
-Java JavaScript MySQL HTML5 CSS3
+## 📌 About Me
+- I am a student learning web development.
+- I am currently learning HTML, CSS, and JavaScript and trying to improve my skills by building small projects.
+- I like creating simple and clean websites.
+- I made this portfolio to show my work and track my learning.
+- I will keep updating it as I learn new things.
+- If you want even shorter (2 lines) or a bit cool/creative style, tell me 👍
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vansh-sharma-eng &theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=vansh-sharma-eng &theme=dark&hide_border=false)
+## 🧠 My Focus Areas
+- Full-Stack Web Development
+- Data Structures & Algorithms (Java)
+- Frontend Development (React, JavaScript)
+- Backend Development (Java)
+- Database Management (MySQL)
+- Problem Solving
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-sharma-eng &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id=vansh-sharma-eng &icon=0&color=0)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/vansh-sharma-eng">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vansh-sharma-eng&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="vansh-sharma-eng's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=vansh-sharma-eng&theme=prussian&hide_border=true&cache_seconds=86400" alt="vansh-sharma-eng's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-sharma-eng&theme=prussian&radius=10" alt="vansh-sharma-eng's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/vansh-sharma-eng">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vansh-sharma-eng&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/vansh-sharma-678323301" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="vansh sharma's LinkedIn"/></a> <a href="mailto:vanshsharmas92005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="vansh sharma's Email"/></a> <a href="https://vansh-sharma-eng.github.io/portfolio_web/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
