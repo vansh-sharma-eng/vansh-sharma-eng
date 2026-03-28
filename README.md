@@ -1,59 +1,18 @@
-<h1 align="center">Hi 👋, I'm vansh sharma</h1>
-<h3 align="center">B.Tech Student | Learning Full-Stack Development.</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=vansh-sharma-eng">
-    <img src="https://komarev.com/ghpvc/?username=vansh-sharma-eng&label=Profile%20views&color=00FFFF&style=flat-square" alt="vansh-sharma-eng's profile views" />
-  </a>
-</p>
-
-## 📌 About Me
-- I am a student learning web development.
-- I am currently learning HTML, CSS, and JavaScript and trying to improve my skills by building small projects.
-- I like creating simple and clean websites.
-- I made this portfolio to show my work and track my learning.
-- I will keep updating it as I learn new things.
-- If you want even shorter (2 lines) or a bit cool/creative style, tell me 👍
+# 💫 About Me:
+Full Stack Developer | Java • React • MySQL 🚀<br>B.Tech 3rd Year | Full Stack Developer 💻<br>Building scalable web apps | Java & React ⚡<br>Java • JavaScript • React | Fast Learner 📚<br>Aspiring Full Stack Developer | Open to opportunities 🤝
 
 
-## 🧠 My Focus Areas
-- Full-Stack Web Development
-- Data Structures & Algorithms (Java)
-- Frontend Development (React, JavaScript)
-- Backend Development (Java)
-- Database Management (MySQL)
-- Problem Solving
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vansh-sharma-678323301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshsharmas92005@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vansh-sharma-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vansh-sharma-eng&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-sharma-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/vansh-sharma-eng">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vansh-sharma-eng&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="vansh-sharma-eng's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=vansh-sharma-eng&theme=prussian&hide_border=true&cache_seconds=86400" alt="vansh-sharma-eng's GitHub Streak" width="49%" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=vansh-sharma-eng&icon=1&color=0)](https://visitcount.itsvg.in)
 
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/vansh-sharma-eng">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vansh-sharma-eng&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/vansh-sharma-678323301" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="vansh sharma's LinkedIn"/></a> <a href="mailto:vanshsharmas92005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="vansh sharma's Email"/></a> <a href="https://vansh-sharma-eng.github.io/portfolio_web/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
