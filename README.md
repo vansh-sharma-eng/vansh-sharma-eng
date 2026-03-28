@@ -1,11 +1,10 @@
 # 💫 About Me:
-💻 Full Stack Developer | Java • React • MySQL
-🎓 B.Tech 3rd Year Student
-⚡ Building scalable web applications using Java & React
-🛠️ Skilled in Java • JavaScript • React
-📚 Fast Learner – quickly adapting to new technologies
-🤝 Aspiring Full Stack Developer | Open to opportunities
-
+-💻 Full Stack Developer | Java • React • MySQL <br>
+-🎓 B.Tech 3rd Year Student  <br>
+-⚡ Building scalable web applications using Java & React <br>  
+-🛠️ Skilled in Java • JavaScript • React  <br>
+-📚 Fast Learner – quickly adapting to new technologies <br>  
+-🤝 Aspiring Full Stack Developer | Open to opportunities <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vansh-sharma-678323301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshsharmas92005@gmail.com) 
