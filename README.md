@@ -1,5 +1,13 @@
 # 💫 About Me:
-Full Stack Developer | Java • React • MySQL 🚀<br>B.Tech 3rd Year | Full Stack Developer 💻<br>Building scalable web apps | Java & React ⚡<br>Java • JavaScript • React | Fast Learner 📚<br>Aspiring Full Stack Developer | Open to opportunities 🤝
+Full Stack Developer | Java • React • MySQL 🚀
+<br>
+B.Tech 3rd Year | Full Stack Developer 💻
+<br>
+Building scalable web apps | Java & React ⚡
+<br>
+Java • JavaScript • React | Fast Learner 📚
+<br>
+Aspiring Full Stack Developer | Open to opportunities 🤝
 
 
 ## 🌐 Socials:
