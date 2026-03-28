@@ -1,9 +1,9 @@
 # 💫 About Me:
 -💻 Full Stack Developer | Java • React • MySQL <br>
 -🎓 B.Tech 3rd Year Student  <br>
--⚡ Building scalable web applications using Java & React<br>  
+-⚡ Building scalable web applications using Java & React  
 -🛠️ Skilled in Java • JavaScript • React  <br>
--📚 Fast Learner – quickly adapting to new technologies<br>  
+-📚 Fast Learner – quickly adapting to new technologies  
 -🤝 Aspiring Full Stack Developer | Open to opportunities <br>
 
 ## 🌐 Socials:
