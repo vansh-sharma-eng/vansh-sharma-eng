@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 -💻 Full Stack Developer | Java • React • MySQL <br>
 -🎓 B.Tech 3rd Year Student  <br>
 -⚡ Building scalable web applications using Java & React  
