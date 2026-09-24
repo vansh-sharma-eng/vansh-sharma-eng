@@ -40,12 +40,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh-sharma-eng&theme=dark&show_icons=true&count_private=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=vansh-sharma-eng&theme=dark)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-sharma-eng&theme=dark&layout=compact)
-
-![Profile views](https://komarev.com/ghpvc/?username=vansh-sharma-eng&color=blue)
