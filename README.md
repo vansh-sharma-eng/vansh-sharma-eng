@@ -12,12 +12,6 @@
 - 📚 Fast learner who picks up new technologies by building with them
 - 🤝 Open to internships and full-time opportunities
 
-## 🚀 Projects
-
-- 💸 **Expense Splitter App**: split expenses in groups with real-time balances (React, Node.js, MongoDB)
-- 🌦 **Weather App**: live weather for any location using the OpenWeather API (HTML, CSS, JavaScript)
-- 🌐 **[Portfolio Website](https://vansh-sharma-eng.github.io/portfolio_web/)**: my hand-coded personal site with dark/light theme ([source](https://github.com/vansh-sharma-eng/portfolio_web))
-
 ## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121011?logo=github&logoColor=white)](https://vansh-sharma-eng.github.io/portfolio_web/)
